@@ -1,6 +1,6 @@
 {
   "name": "trip-to-kenya",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Say  hello to Kenya",
   "main": "index.js",
   "scripts": {
