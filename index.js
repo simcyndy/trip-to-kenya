@@ -1,3 +1,3 @@
 module.exports = function() {
-  console.log('Karibu Kenya!')
+  console.log('Karibu Kenya!!')
   }
